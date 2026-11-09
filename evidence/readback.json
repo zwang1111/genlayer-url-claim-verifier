@@ -1,0 +1,32 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "contract": "0x4987f65A84d791a9F301A1C913Db327367F3eB67",
+  "get_count": 2,
+  "get_latest_id_example_com": "2",
+  "get_record_2": {
+    "claim": "This domain is for use in documentation examples without needing permission.",
+    "claim_id": "2",
+    "consensus_fields": [
+      "verdict"
+    ],
+    "evaluation_basis": "fetched_page_text_only",
+    "excerpt": "This domain is for use in documentation examples without needing permission.",
+    "leader_caution_flags": [],
+    "leader_page_chars": 171,
+    "leader_page_truncated": false,
+    "not_a_truth_oracle": "Verdict records only whether the fetched page text supports the claim. It is not a finding of real-world truth, source authority, identity, freshness, or completeness.",
+    "reason": "The page text directly states the claim verbatim.",
+    "recorded_at": "2026-11-09T05:25:15.680643Z",
+    "requester": "0xDAab6b755FC2A11529042162492F6E8f50c181b4",
+    "schema_version": 1,
+    "source_url": "https://example.com/",
+    "verdict": "supported"
+  },
+  "get_record_1_summary": {
+    "claim_id": "1",
+    "verdict": "unclear",
+    "source_url": "https://docs.genlayer.com/developers/networks",
+    "excerpt": ""
+  }
+}
